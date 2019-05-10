@@ -37,8 +37,7 @@ def load_config(filename):
         
     return config['Things']
 
-res_path='/media/i/home/arnold/development/python/machine_learning/gym/gym-grid2D'
-res_path = os.path.join(res_path, 'gym_grid2D/images')
+res_path='images'
 
 INFO = load_config(res_path)
 
