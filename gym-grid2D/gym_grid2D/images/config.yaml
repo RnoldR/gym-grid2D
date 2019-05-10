@@ -1,0 +1,12 @@
+# "Things info: Name: {id, cost}",
+
+Things: {
+    "Field":    [0, -0.01],
+    "Wall":     [1, -0.1],
+    "Vehicle":  [2, 10.0],
+    "Mushroom": [3, 1.0],
+    "Cactus":   [4, -1.0],
+    "Rock":     [5, -0.5]
+}
+
+
